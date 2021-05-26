@@ -25,9 +25,9 @@ If we click on the option to monitor all the stocks, we are presented with an em
 We can pick one and get the result for all the indices in that **particular group**.
 
 <p align="center">
-  <img width=300 src="https://user-images.githubusercontent.com/22641582/119611768-c21b6580-be18-11eb-9aa0-c7a9f30ea5d4.png">
-  <img width=300 src="https://user-images.githubusercontent.com/22641582/119611860-db241680-be18-11eb-83a6-3834be4c39a7.png">
-  <img width=300 src="https://user-images.githubusercontent.com/22641582/119612018-060e6a80-be19-11eb-8c5f-ac8ff9b961e6.png">
+  <img width=250 src="https://user-images.githubusercontent.com/22641582/119611768-c21b6580-be18-11eb-9aa0-c7a9f30ea5d4.png">
+  <img width=250 src="https://user-images.githubusercontent.com/22641582/119611860-db241680-be18-11eb-83a6-3834be4c39a7.png">
+  <img width=250 src="https://user-images.githubusercontent.com/22641582/119612018-060e6a80-be19-11eb-8c5f-ac8ff9b961e6.png">
 </p>
 
 The below feature is available for both the screens.
