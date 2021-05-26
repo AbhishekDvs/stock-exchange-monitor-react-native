@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome to the stock exchange monitor Wiki! </h1>
+<h1 align="center"> Welcome to the stock exchange monitor tutorial! </h1>
 
 ## Here, I will be presenting a small demo of how this app functions.
 ## It currently uses the stock API from RAPID API.
